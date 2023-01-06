@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Kishore-2572
-- 👀 I’m interested in Mobile app development
-- 🌱 I’m currently learning Flutter
-- 📫 How to reach me kishoren2572@gmail.com
+- 👋 Hi, I’m Kishore
+-  I’ve huge interest in tech stacks  
+-  My current skills include MERN stack development and Flutter mobile application development
 
